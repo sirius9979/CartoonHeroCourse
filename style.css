@@ -4,8 +4,9 @@ body{
   font-size: 15px;
   line-height: 20px;
 }
-h1, h2{
-  font-family:Oswald ;
+.Kratos_img2{
+  width: 800px;
+  margin: 0 auto;
 }
 header{
   background-color: black; 
@@ -31,15 +32,6 @@ main{
 main img{
   max-width: 100%;
 }
-h2{
-font-size: 30px; 
-}
-a{
-  color: #931616;
-}
-a:hover{
-  background-color: aliceblue;
-}             
 footer{
   text-align: center;
   background-color: black;
@@ -52,4 +44,13 @@ footer a{
 footer a:hover{
   background-color: transparent;
   opacity: .5;
+}
+h2{
+font-size: 30px; 
+}
+a{
+  color: #931616;
+}
+a:hover{
+  background-color: aliceblue;
 }
